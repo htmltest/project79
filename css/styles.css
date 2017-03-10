@@ -220,3 +220,14 @@ footer {background:#333; height:495px; margin:-495px 0 0 0; position:relative; m
 .calculator__input-wrapper--w2 {float:left; width:100px}
 .calculator__input-wrapper--w2 .calculator__input {width:92px}
 .calculator__input-wrapper--w2:after {clear:both; content:" "}
+
+.contacts {font-size:0; line-height:0; letter-spacing:-1px; margin:0 -15px; padding:2px 0 0 0}
+.contacts-item {display:inline-block; vertical-align:top; width:50%; padding:0 15px 34px 15px; box-sizing:border-box; font-size:14px; line-height:21px; letter-spacing:0}
+.contacts-item-title {font-weight:bold; text-transform:uppercase; color:#a96e31}
+.contacts-item-address {padding:21px 0 0 0}
+.contacts-item-phone {padding:0 0 0 36px; background:url(../images/contacts-phone.png) no-repeat left center}
+.contacts-item-fax {padding:0 0 0 36px; background:url(../images/contacts-fax.png) no-repeat left center}
+.contacts-item-email {padding:0 0 0 36px; background:url(../images/contacts-email.png) no-repeat left center}
+.contacts-item-schedule {padding:0 0 0 36px; background:url(../images/contacts-schedule.png) no-repeat 1px center}
+
+#map {height:434px; margin:18px 0 0 0}
