@@ -7,6 +7,7 @@ a {outline:none; color:#a1621f}
 img {border:none}
 
 h1 {font-weight:normal; font-size:26px; line-height:30px; margin:0 0 18px 0; padding:0; text-transform:uppercase; color:#a96e31}
+h3 {font-weight:bold; font-size:16px; line-height:21px; margin:36px 0 18px 0; padding:0; text-transform:uppercase; color:#a96e31}
 p {margin:18px 0; padding:0}
 ul {margin:18px 0; padding:0; list-style:none}
 ul li {margin:18px 0; padding:0 0 0 37px; position:relative}
@@ -231,3 +232,53 @@ footer {background:#333; height:495px; margin:-495px 0 0 0; position:relative; m
 .contacts-item-schedule {padding:0 0 0 36px; background:url(../images/contacts-schedule.png) no-repeat 1px center}
 
 #map {height:434px; margin:18px 0 0 0}
+
+.portfolio-sections {margin:18px -20px; font-size:0; line-height:0; letter-spacing:-1px}
+.portfolio-section {display:inline-block; vertical-align:top; width:33.33%; padding:30px 20px 20px 20px; box-sizing:border-box; text-align:center}
+.portfolio-section a {display:inline-block; vertical-align:top; text-decoration:none}
+.portfolio-section-icon {height:61px; line-height:61px}
+.portfolio-section-icon img {vertical-align:bottom}
+.portfolio-section-title {font-size:16px; line-height:30px; letter-spacing:0; font-weight:bold; text-transform:uppercase; padding:7px 40px 0 40px}.portfolio-sections {margin:18px -20px; font-size:0; line-height:0; letter-spacing:-1px}
+
+.portfolio-last {margin:18px -20px; font-size:0; line-height:0; letter-spacing:-1px}
+.portfolio-last-item {display:inline-block; vertical-align:top; width:33.33%; padding:7px 20px 22px 20px; box-sizing:border-box}
+.portfolio-last-item a {display:inline-block; vertical-align:top; text-decoration:none}
+.portfolio-last-item-preview {border:1px solid #b7b7b7}
+.portfolio-last-item-preview img {display:block; width:100%}
+.portfolio-last-item-title {font-size:14px; line-height:24px; letter-spacing:0; font-weight:bold; text-transform:uppercase; padding:16px 0 0 0}
+
+.video-inner {height:0; position:relative; padding:56.25% 0 0 0; margin:18px 0}
+.video-inner iframe {position:absolute; left:0; top:0; width:100%; height:100%}
+
+.vip-desing-photo-big {margin:24px 18px 18px 0; position:relative}
+.vip-desing-photo-big:before {content:""; display:block; width:114px; height:151px; position:absolute; right:-18px; top:-24px; background:url(../images/vip-desing-photo-big.png)}
+.vip-desing-photo-big img {display:block; width:100%; position:relative}
+
+.wrapper .vip-packets table {width:100%; margin:50px 0; border-collapse:collapse; border-spacing:0; border:none; background:#fff}
+.wrapper .vip-packets table tr th {vertical-align:middle; border:none; width:20%; padding:26px 0 33px 0; text-align:center; color:#333; line-height:21px; font-weight:normal; text-transform:none}
+.wrapper .vip-packets table tr th:nth-child(2) {background:#f9f3e2}
+.wrapper .vip-packets table tr th:nth-child(3) {background:#fde7a1}
+.wrapper .vip-packets table tr th:nth-child(4) {background:#fcda73}
+.wrapper .vip-packets table tr th:nth-child(5) {background:#fac215}
+.vip-packets-title-text-1 {font-size:13px}
+.vip-packets-title-text-2 {font-size:14px; text-transform:uppercase; font-weight:bold}
+.vip-packets-title-text-3 {font-size:14px}
+.wrapper .vip-packets table tr td {vertical-align:middle; border:none; width:20%; padding:10px 0 9px 0; text-align:center; color:#333; font-size:14px; line-height:21px}
+.wrapper .vip-packets table tr td:first-child {text-align:left; padding-left:14px; padding-right:14px}
+.wrapper .vip-packets table tr td.vip-packets-add {font-size:13px; line-height:21px; height:42px}
+.wrapper .vip-packets table tbody tr td:nth-child(even) {background:#f9f9f9}
+.wrapper .vip-packets table tbody tr:nth-child(odd) td {background:#f7f7f7}
+.wrapper .vip-packets table tbody tr:nth-child(odd) td:nth-child(even) {background:#f2f2f2}
+
+.vip-order {border:2px solid #a96e31; font-weight:500; text-transform:uppercase; margin:30px 0 67px 0; padding:24px 65px 34px 65px; position:relative}
+.vip-order-link {position:absolute; left:0; bottom:-29px; background:#f7f7f7; padding:0 65px}
+.vip-order-link .btn {border-color:#fac215; padding:0 33px; background:#fac215}
+
+.vip-prefs {text-align:justify; margin:40px 0 28px 0}
+.vip-prefs:after {content:""; display:inline-block; vertical-align:top; width:100%; height:0}
+.vip-pref {display:inline-block; vertical-align:top}
+.vip-pref-top {display:table}
+.vip-pref-icon {display:table-cell; vertical-align:bottom; height:47px; line-height:0}
+.vip-pref-stat {display:table-cell; vertical-align:bottom; color:#f3a700; font-size:24px; line-height:30px; font-weight:bold; padding:0 0 0 16px}
+.vip-pref-title {font-size:12px; font-weight:bold; text-transform:uppercase; padding:3px 0 0 0}
+.vip-pref-title:after {content:""; display:block; width:40px; height:2px; background:#f39f00; margin:5px 0 0 0}
